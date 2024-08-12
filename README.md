@@ -1,6 +1,8 @@
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F78542&center=true&vCenter=true&width=600&height=80&lines=%D0%A1%2B%2B+developer" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=fb8c00&center=true&vCenter=true&width=800&height=80&lines=%D0%A1%2B%2B+developer" alt="Typing SVG" /></a>
+</p>
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXU2bWJyNXN6dmNyM3M0Z3d4ZTZ3dTY0NG5jenJlZ3l1eHA5MGVpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="100"/>
